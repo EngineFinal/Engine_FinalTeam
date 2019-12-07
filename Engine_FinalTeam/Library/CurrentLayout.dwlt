@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 524}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -91,10 +91,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 713, y: 498}
-  m_MaxSize: {x: 18008, y: 14048}
+  m_MinSize: {x: 713, y: 474}
+  m_MaxSize: {x: 18008, y: 14024}
   vertical: 0
-  controlID: 133
+  controlID: 43
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,10 +166,10 @@ MonoBehaviour:
     y: 0
     width: 341
     height: 947
-  m_MinSize: {x: 234, y: 498}
-  m_MaxSize: {x: 10004, y: 14048}
+  m_MinSize: {x: 234, y: 474}
+  m_MaxSize: {x: 10004, y: 14024}
   vertical: 1
-  controlID: 32
+  controlID: 44
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -216,8 +216,8 @@ MonoBehaviour:
     y: 0
     width: 341
     height: 456
-  m_MinSize: {x: 204, y: 224}
-  m_MaxSize: {x: 4004, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -437,7 +437,8 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Prefabs/Hallway
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -449,7 +450,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 500b0000
     m_LastClickedID: 2896
-    m_ExpandedIDs: 000000006c0d0000960f0000e00f00000c1000001e100000981100005c1300002c150000d415000076160000343a0000
+    m_ExpandedIDs: 000000006e0d00009a0f0000e40f000010100000221000009e110000e2110000681300003a150000e215000090160000743a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -474,10 +475,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 164}
+    scrollPos: {x: 0, y: 540}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000006c0d0000960f0000e00f00000c1000001e10000098110000da1100005c1300002c150000d415000076160000343a0000
+    m_ExpandedIDs: ffffffff000000006e0d00009a0f0000e40f000010100000221000009e110000e2110000681300003a150000e215000090160000743a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: HallwayChair
@@ -488,7 +489,7 @@ MonoBehaviour:
         y: 0
         width: 0
         height: 0
-      m_UserData: 15112
+      m_UserData: 4708
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -643,9 +644,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 16.2588, y: -3.8787808, z: -66.89761}
+    m_Target: {x: -15.493782, y: 3.3258793, z: -70.93425}
     speed: 2
-    m_Value: {x: 16.2588, y: -3.8787808, z: -66.89761}
+    m_Value: {x: -15.493782, y: 3.3258793, z: -70.93425}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -673,13 +674,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.124515966, y: 0.8673582, z: -0.27116245, w: 0.39831775}
+    m_Target: {x: -0.026297906, y: -0.81038076, z: -0.036494467, w: 0.5841744}
     speed: 2
-    m_Value: {x: 0.124515936, y: 0.867358, z: -0.2711624, w: 0.39831766}
+    m_Value: {x: -0.026297906, y: -0.81038076, z: -0.036494467, w: 0.5841744}
   m_Size:
-    m_Target: 30.534866
+    m_Target: 17.338469
     speed: 2
-    m_Value: 30.534866
+    m_Value: 17.338469
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -719,10 +720,10 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 656}
+      scrollPos: {x: 0, y: 141}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: bce7ffff96f7ffffdcfbffff941700004e18000064190000
+      m_ExpandedIDs: aaf6ffffdcfbffffae17000060180000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
