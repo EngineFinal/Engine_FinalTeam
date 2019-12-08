@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 524}
+  m_MinSize: {x: 950, y: 548}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -45,7 +45,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 548}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -91,10 +91,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 711, y: 474}
-  m_MaxSize: {x: 18006, y: 14024}
+  m_MinSize: {x: 713, y: 498}
+  m_MaxSize: {x: 18008, y: 14048}
   vertical: 0
-  controlID: 13
+  controlID: 66
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,10 +166,10 @@ MonoBehaviour:
     y: 0
     width: 341
     height: 947
-  m_MinSize: {x: 234, y: 474}
-  m_MaxSize: {x: 10004, y: 14024}
+  m_MinSize: {x: 234, y: 498}
+  m_MaxSize: {x: 10004, y: 14048}
   vertical: 1
-  controlID: 96
+  controlID: 79
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -189,8 +189,8 @@ MonoBehaviour:
     y: 0
     width: 406
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 74}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -216,8 +216,8 @@ MonoBehaviour:
     y: 0
     width: 341
     height: 456
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 224}
+  m_MaxSize: {x: 4004, y: 4024}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -437,20 +437,19 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/Prefabs/Hallway
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "D:\\2019 2\uD559\uAE30 \uACFC\uC81C\\\uC218_\uAC8C\uC784\uADF8\uB798\uD53D\uC5D4\uC9C4\uAE30\uCD08\\\uAE30\uB9D0\uACE0\uC0AC\\Engine_FinalTeam\\Engine_FinalTeam"
+  m_LastProjectPath: F:\project\Engine_FinalTeam\Engine_FinalTeam
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 500b0000
     m_LastClickedID: 2896
-    m_ExpandedIDs: 00000000740d0000a40f0000ee0f00002010000032100000b61100002c1200007c130000bc1300009015000038160000ee160000243b0000
+    m_ExpandedIDs: 00000000583d00005e3f0000a83f0000da3f0000ec3f000066410000aa410000e642000024430000f6440000844500002a460000944d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -475,24 +474,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 60}
+    scrollPos: {x: 0, y: 752}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000740d0000a40f0000ee0f00002010000032100000b61100002c1200007c130000bc1300009015000038160000ee160000243b0000
+    m_ExpandedIDs: ffffffff00000000583d00005e3f0000a83f0000da3f0000ec3f000066410000aa410000e642000024430000f6440000844500002a460000944d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: SurgeryRoomDoor_sample
-      m_OriginalName: SurgeryRoomDoor_sample
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 6072
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -644,9 +643,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -9.073419, y: -0.37267545, z: -43.912308}
+    m_Target: {x: 11.238718, y: 0.38566875, z: -84.36333}
     speed: 2
-    m_Value: {x: -9.073419, y: -0.37267545, z: -43.912308}
+    m_Value: {x: 11.238718, y: 0.38566875, z: -84.36333}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -674,13 +673,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.06229294, y: -0.77256876, z: 0.076748535, w: 0.62718964}
+    m_Target: {x: -0.015176094, y: -0.940535, z: 0.042361714, w: -0.33670333}
     speed: 2
-    m_Value: {x: 0.06229294, y: -0.77256876, z: 0.076748535, w: 0.62718964}
+    m_Value: {x: -0.015176094, y: -0.940535, z: 0.042361714, w: -0.33670333}
   m_Size:
-    m_Target: 8.632304
+    m_Target: 14.560265
     speed: 2
-    m_Value: 8.632304
+    m_Value: 14.560265
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -720,24 +719,24 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 32}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 7ce0ffff88e0ffffeaefffff50f5ffffb0f8ffffc4f8ffff72f9ffff8cfbffffdafbffffdcfbffff061800008818000060190000
+      scrollPos: {x: 0, y: 189}
+      m_SelectedIDs: 14480000
+      m_LastClickedID: 18452
+      m_ExpandedIDs: f0e6ffff064700007047000054480000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: SurgeryRoomDoor_Close
-        m_OriginalName: SurgeryRoomDoor_Close
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -5018
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 9}
       m_SearchString: 
