@@ -10,10 +10,11 @@ ModelImporter:
     100008: Cylinder041
     100010: emmision
     100012: light
-    100014: Object023
-    100016: Object024
-    100018: //RootNode
-    100020: Torus001
+    100014: metal
+    100016: Object023
+    100018: Object024
+    100020: //RootNode
+    100022: Torus001
     400000: body_1
     400002: body_2
     400004: body_3
@@ -21,10 +22,11 @@ ModelImporter:
     400008: Cylinder041
     400010: emmision
     400012: light
-    400014: Object023
-    400016: Object024
-    400018: //RootNode
-    400020: Torus001
+    400014: metal
+    400016: Object023
+    400018: Object024
+    400020: //RootNode
+    400022: Torus001
     2100000: 01 - Default
     2100002: No Name
     2300000: body_1
@@ -34,9 +36,10 @@ ModelImporter:
     2300008: Cylinder041
     2300010: emmision
     2300012: light
-    2300014: Object023
-    2300016: Object024
-    2300018: Torus001
+    2300014: metal
+    2300016: Object023
+    2300018: Object024
+    2300020: Torus001
     3300000: body_1
     3300002: body_2
     3300004: body_3
@@ -44,9 +47,10 @@ ModelImporter:
     3300008: Cylinder041
     3300010: emmision
     3300012: light
-    3300014: Object023
-    3300016: Object024
-    3300018: Torus001
+    3300014: metal
+    3300016: Object023
+    3300018: Object024
+    3300020: Torus001
     4300000: celing
     4300002: body_2
     4300004: light
@@ -57,6 +61,7 @@ ModelImporter:
     4300014: Cylinder041
     4300016: Torus001
     4300018: Object024
+    4300020: metal
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -97,7 +102,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

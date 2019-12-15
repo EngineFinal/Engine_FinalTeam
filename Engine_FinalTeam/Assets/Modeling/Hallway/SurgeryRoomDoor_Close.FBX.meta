@@ -3,19 +3,19 @@ guid: b7bbf6d2e16fcd94eb423690eff72260
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Object011
-    100002: Object014
+    100000: door
+    100002: metal
     100004: //RootNode
-    400000: Object011
-    400002: Object014
+    400000: door
+    400002: metal
     400004: //RootNode
     2100000: 01 - Default
-    2300000: Object011
-    2300002: Object014
-    3300000: Object011
-    3300002: Object014
-    4300000: Object011
-    4300002: Object014
+    2300000: door
+    2300002: metal
+    3300000: door
+    3300002: metal
+    4300000: door
+    4300002: metal
   externalObjects: {}
   materials:
     importMaterials: 1
