@@ -1,14 +1,61 @@
 fileFormatVersion: 2
-guid: 94343ecef664a5e4abe521fcfaee36c8
+guid: f9636b9e9ad27c34e81b52d7d4bc6ef1
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
+    100000: MachineA
+    100002: //RootNode
+    100004: MachneB
+    100006: Monitir
+    100008: Plastic_Black
+    100010: Plastic_BlackB
+    100012: PlasticA
+    100014: PlasticB
+    100016: ScreenBlack
+    100018: ScreenBlue
+    100020: Steel
+    400000: MachineA
+    400002: //RootNode
+    400004: MachneB
+    400006: Monitir
+    400008: Plastic_Black
+    400010: Plastic_BlackB
+    400012: PlasticA
+    400014: PlasticB
+    400016: ScreenBlack
+    400018: ScreenBlue
+    400020: Steel
     2100000: No Name
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Ex_dummy
+    2300000: MachineA
+    2300002: MachneB
+    2300004: Monitir
+    2300006: Plastic_Black
+    2300008: Plastic_BlackB
+    2300010: PlasticA
+    2300012: PlasticB
+    2300014: ScreenBlack
+    2300016: ScreenBlue
+    2300018: Steel
+    3300000: MachineA
+    3300002: MachneB
+    3300004: Monitir
+    3300006: Plastic_Black
+    3300008: Plastic_BlackB
+    3300010: PlasticA
+    3300012: PlasticB
+    3300014: ScreenBlack
+    3300016: ScreenBlue
+    3300018: Steel
+    4300000: MachneB
+    4300002: MachineA
+    4300004: PlasticB
+    4300006: Plastic_Black
+    4300008: PlasticA
+    4300010: Steel
+    4300012: Plastic_BlackB
+    4300014: ScreenBlack
+    4300016: Monitir
+    4300018: ScreenBlue
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -49,7 +96,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
