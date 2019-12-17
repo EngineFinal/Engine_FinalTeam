@@ -6,21 +6,16 @@ ModelImporter:
     100000: Monitor
     100002: //RootNode
     100004: Screen
-    100006: Steel
     400000: Monitor
     400002: //RootNode
     400004: Screen
-    400006: Steel
     2100000: No Name
     2300000: Monitor
     2300002: Screen
-    2300004: Steel
     3300000: Monitor
     3300002: Screen
-    3300004: Steel
     4300000: Screen
     4300002: Monitor
-    4300004: Steel
   externalObjects: {}
   materials:
     importMaterials: 1
